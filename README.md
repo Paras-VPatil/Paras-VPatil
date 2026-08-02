@@ -49,7 +49,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,tailwind,git,github,linux,pytorch,tensorflow,vscode,figma" alt="Tech Stack Icons" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,tailwind,git,github,linux,pytorch,tensorflow,vscode,figma,pandas,numpy,matplotlib,seaborn,flask,fastapi,docker,kubernetes" alt="Tech Stack Icons" />
 
 </div>
 
