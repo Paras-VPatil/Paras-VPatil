@@ -2,13 +2,17 @@
   <img src="./assets/header.svg" alt="Code-themed header for Paras Patil" width="100%" />
 </div>
 
+<br/>
+
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Paras-VPatil/Paras-VPatil/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Paras-VPatil/Paras-VPatil/output/github-contribution-grid-snake.svg" />
-    <img alt="Animated snake eating my GitHub contribution graph" src="./assets/snake-placeholder.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Paras-VPatil/paras-patil16/snake-output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Paras-VPatil/paras-patil16/snake-output/snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Paras-VPatil/paras-patil16/snake-output/snake.svg" />
   </picture>
 </div>
+
+<br/>
 
 <div align="center">
   <table width="100%" cellpadding="12">
@@ -26,28 +30,21 @@
   </table>
 </div>
 
-<div align="center">
-  <table width="100%" cellpadding="12">
-    <tr>
-      <td valign="top" align="left">
-        <h3>About Me</h3>
-        <p style="font-family:Segoe UI, sans-serif; font-size:15px; color:#c9d1d9; line-height:1.7;">
-          I’m curious about machine learning, data-driven products, and elegant interfaces. My goal is to keep learning, ship meaningful projects, and grow through every build.
-        </p>
-      </td>
-      <td width="480" valign="top" align="center">
-        <img src="https://github-stats-extended.vercel.app/api?username=Paras-VPatil&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" width="470" alt="GitHub stats card for Paras Patil" />
-        <br><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paras-VPatil&theme=tokyonight&hide_border=true" width="470" alt="GitHub streak stats for Paras Patil" />
-      </td>
-    </tr>
-  </table>
-</div>
+<br/>
 
 <div align="center">
-  <h3>Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,tailwind,html,css,git,github,linux,pytorch,tensorflow,vscode" alt="Technology icons for Python, JavaScript, TypeScript, React, Node.js, Tailwind, HTML, CSS, Git, GitHub, Linux, PyTorch, TensorFlow, and VS Code" />
+  <img src="https://raw.githubusercontent.com/Paras-VPatil/paras-patil16/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/Paras-VPatil/paras-patil16/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph" />
 </div>
+
+<br/>
+
+<div align="center">
+  <h3>Tools & Technologies</h3>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,tailwind,html,css,git,github,linux,pytorch,tensorflow,vscode" alt="Tech Stack Icons" />
+</div>
+
+<br/>
 
 <div align="center" style="margin-top:20px;">
   <a href="https://github.com/Paras-VPatil">
