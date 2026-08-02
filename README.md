@@ -16,7 +16,7 @@
       <img src="./assets/avatar.gif" width="170" alt="Animated avatar of Paras Patil" />
     </td>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=paras-patil16&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" width="470" alt="GitHub stats card for Paras Patil" />
+      <img src="https://github-stats-extended.vercel.app/api?username=Paras-VPatil&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" width="470" alt="GitHub stats card for Paras Patil" />
     </td>
   </tr>
 </table>
@@ -26,9 +26,9 @@
 ### Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paras-patil16/paras-patil16/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paras-patil16/paras-patil16/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/paras-patil16/paras-patil16/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Paras-VPatil/Paras-VPatil/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Paras-VPatil/Paras-VPatil/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated snake eating my GitHub contribution graph" src="./assets/snake-placeholder.svg" />
 </picture>
 
 </div>
@@ -43,8 +43,7 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-paras--patil16-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/paras-patil16)
-![Profile Views](https://komarev.com/ghpvc/?username=paras-patil16&label=profile%20views&color=0f172a&style=flat-square)
+[![GitHub](https://img.shields.io/badge/GitHub-Paras--VPatil-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/Paras-VPatil)
+![Profile Views](https://komarev.com/ghpvc/?username=Paras-VPatil&label=profile%20views&color=0f172a&style=flat-square)
 
 </div>
-
