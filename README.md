@@ -1,25 +1,35 @@
 <div align="center">
 
-![Animated header](https://capsule-render.vercel.app/api?type=wave&color=0:020617,100:0f172a&height=220&section=header&text=Paras%20Patil&fontSize=42&fontColor=E2E8F0&fontAlignY=34&desc=AI%20%26%20Data%20Science%20Enthusiast%20%7C%20IT%20Student&descSize=18&descAlignY=54&animation=fadeIn)
+<img src="./assets/header.svg" alt="Code-themed header for Paras Patil" width="100%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=const+aboutMe+%3D+%7B;name:+%22Paras+Patil%22,;role:+%22AI+%26+Data+Science+Enthusiast%22,;stack:+%5B%22Python%22,+%22JavaScript%22,+%22React%22,+%22PyTorch%22%5D,;currentFocus:+%22Animated+GitHub+profile+README%22,;%7D" alt="Typing about me animation" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=const+aboutMe+%3D+%7B;name:+%22Paras+Patil%22,;role:+%22AI+%26+Data+Science+Enthusiast%22,;stack:+%5B%22Python%22,+%22JavaScript%22,+%22React%22,+%22PyTorch%22%5D,;focus:+%22Animated+GitHub+profile+README%22,;%7D" alt="Typing about me animation" />
 
 </div>
 
 <table width="100%">
   <tr>
-    <td width="180" valign="top">
-      <img src="./assets/avatar.gif" width="170" alt="Animated avatar of Paras Patil" />
+    <td width="190" valign="top">
+      <img src="./assets/avatar-ascii.svg" width="180" alt="ASCII portrait of Paras Patil" />
     </td>
     <td valign="top">
       <img src="https://github-stats-extended.vercel.app/api?username=Paras-VPatil&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" width="470" alt="GitHub stats card for Paras Patil" />
+      <br><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paras-VPatil&theme=tokyonight&hide_border=true" width="470" alt="GitHub streak stats for Paras Patil" />
     </td>
   </tr>
 </table>
+
+<div align="center">
+
+### Language Effect
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Paras-VPatil&layout=compact&theme=tokyonight&hide_border=true" width="520" alt="Top languages for Paras Patil" />
+
+</div>
 
 <div align="center">
 
