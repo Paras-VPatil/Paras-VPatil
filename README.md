@@ -12,9 +12,6 @@
 
 <table width="100%">
   <tr>
-    <td width="190" valign="top">
-      <img src="./assets/avatar-ascii.svg" width="180" alt="ASCII portrait of Paras Patil" />
-    </td>
     <td valign="top">
       <img src="https://github-stats-extended.vercel.app/api?username=Paras-VPatil&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" width="470" alt="GitHub stats card for Paras Patil" />
       <br><br>
