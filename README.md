@@ -35,18 +35,7 @@
 
 <br />
 
-## 📊 GitHub Stats
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Paras-VPatil&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paras-VPatil&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" width="100%" alt="Most Used Languages" />
-    </td>
-  </tr>
-</table>
 
 <div align="center">
 
@@ -66,13 +55,7 @@
 
 <br />
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Paras-VPatil&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-
-</div>
 
 <br />
 
