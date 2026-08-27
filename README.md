@@ -1,15 +1,17 @@
+<!-- Top Banner: GitHub Contribution Heatmap with Name -->
 <div align="center">
- 
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Paras-VPatil/Paras-VPatil/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Paras-VPatil/Paras-VPatil/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Paras-VPatil/Paras-VPatil/output/github-contribution-grid-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-grid-paras-patil-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contribution-grid-paras-patil-light.svg" />
+  <img alt="Paras Patil GitHub Contribution Grid" src="./assets/contribution-grid-paras-patil-dark.png" width="100%" />
 </picture>
 
 </div>
 
 <br />
 
+<!-- Profile Header -->
 <table width="100%">
   <tr>
     <td width="30%" align="center">
@@ -20,7 +22,7 @@
       <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=false&vCenter=true&width=560&lines=AI+%26+Data+Science+Enthusiast;Building+with+Python+%2B+JavaScript;Always+learning%2C+always+shipping;Welcome+to+my+GitHub+profile+%F0%9F%91%8B" alt="Typing SVG" />
       <br /><br />
       <p>
-        🎓 Exploring AI, Data Science &amp; full-stack development<br />
+        🎓 Exploring AI, Data Science &amp; Full-Stack Development<br />
         🛠️ Currently building projects around ML-driven tools and web apps<br />
         🌱 Always learning something new — one commit at a time
       </p>
@@ -35,16 +37,26 @@
 
 <br />
 
-
+<!-- 📊 GitHub Stats Section -->
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Paras-VPatil&theme=tokyonight&hide_border=true&background=00000000" width="70%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Paras-VPatil&theme=github-dark-blue&hide_border=true&mode=weekly" alt="GitHub Streak" />
+
+<br /><br />
+
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Paras-VPatil&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&title_color=0078D4&icon_color=00BCF2&text_color=C9D1D9&bg_color=0B0F19&border_color=0B0F19" alt="GitHub Stats" />
+
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph/?username=Paras-VPatil&bg_color=0B0F19&color=C9D1D9&line=0078D4&point=00BCF2&hide_border=true&custom_title=Activity%20Graph&title_color=0078D4" alt="Activity Graph" />
 
 </div>
 
 <br />
 
+<!-- 🛠️ Tools & Tech Section -->
 ## 🛠️ Tools &amp; Tech
 
 <div align="center">
@@ -55,7 +67,33 @@
 
 <br />
 
+<!-- 🎮 Contribution Games & Animations Section -->
+## 🎮 Contribution Games &amp; Animations
 
+<div align="center">
+
+<!-- 🐍 Snake Game Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Paras-VPatil/Paras-VPatil/output-snake/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Paras-VPatil/Paras-VPatil/output-snake/github-contribution-grid-snake.svg" />
+  <img alt="Snake Contribution Animation" src="https://raw.githubusercontent.com/Paras-VPatil/Paras-VPatil/output-snake/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+<br /><br />
+
+<!-- 🕹️ Pacman Game Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Paras-VPatil/Paras-VPatil/output-pacman/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Paras-VPatil/Paras-VPatil/output-pacman/pacman-contribution-graph.svg" />
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Paras-VPatil/Paras-VPatil/output-pacman/pacman-contribution-graph.svg" width="100%" />
+</picture>
+
+<br /><br />
+
+<!-- 🚀 Space Shooter / Jet Game Animation -->
+<img alt="GitHub Space Shooter Game" src="https://raw.githubusercontent.com/Paras-VPatil/Paras-VPatil/output-space-shooter/game.gif" width="100%" />
+
+</div>
 
 <br />
 
